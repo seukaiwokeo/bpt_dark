@@ -5,7 +5,7 @@
       "version":"1"
    },
    "themeData":{
-      "brightness":"dark",
+      "brightness":"light",
       "headsImage":"null",
       "entriesImage":"null",
       "primarySwatch":{
