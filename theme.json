@@ -5,7 +5,7 @@
       "version":"1"
    },
    "themeData":{
-      "brightness":"light",
+      "brightness":"dark",
       "headsImage":"null",
       "entriesImage":"null",
       "primarySwatch":{
@@ -19,7 +19,24 @@
          "g":14,
          "b":14
       },
-      
+      "scaffoldBackgroundColor":{
+         "a":255,
+         "r":22,
+         "g":22,
+         "b":22
+      },
+      "accentColor":{
+         "a":255,
+         "r":237,
+         "g":197,
+         "b":22
+      },
+      "backgroundColor":{
+         "a":255,
+         "r":22,
+         "g":22,
+         "b":22
+      },
       "bottomAppBarColor":{
          "a":255,
          "r":32,
