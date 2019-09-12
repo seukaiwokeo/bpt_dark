@@ -1,60 +1,67 @@
 {
-   "brightness":"dark",
-   "headsImage":"null",
-   "entriesImage":"null",
-   "primarySwatch":"red",
-   "primaryColor":{
-      "a":255,
-      "r":14,
-      "g":14,
-      "b":14
-   },
-   "scaffoldBackgroundColor":{
-      "a":255,
-      "r":22,
-      "g":22,
-      "b":22
-   },
-   "accentColor":{
-      "a":255,
-      "r":237,
-      "g":197,
-      "b":22
-   },
-   "backgroundColor":{
-      "a":255,
-      "r":22,
-      "g":22,
-      "b":22
-   },
-   "bottomAppBarColor":{
-      "a":255,
-      "r":32,
-      "g":34,
-      "b":37
-   },
-   "dialogBackgroundColor":{
-      "a":255,
-      "r":32,
-      "g":34,
-      "b":37
-   },
-   "canvasColor":{
-      "a":255,
-      "r":32,
-      "g":34,
-      "b":37
-   },
-   "cardColor":{
-      "a":255,
-      "r":22,
-      "g":22,
-      "b":22
-   },
-   "hintColor":{
-      "a":255,
-      "r":255,
-      "g":255,
-      "b":255
-   }
+  "theme": {
+    "name": "BPT Dark",
+    "developer": "Semih Çiçek",
+    "version": "1"
+  },
+  "themeData": {
+    "brightness": "dark",
+    "headsImage": "null",
+    "entriesImage": "null",
+    "primarySwatch": "red",
+    "primaryColor": {
+      "a": 255,
+      "r": 14,
+      "g": 14,
+      "b": 14
+    },
+    "scaffoldBackgroundColor": {
+      "a": 255,
+      "r": 22,
+      "g": 22,
+      "b": 22
+    },
+    "accentColor": {
+      "a": 255,
+      "r": 237,
+      "g": 197,
+      "b": 22
+    },
+    "backgroundColor": {
+      "a": 255,
+      "r": 22,
+      "g": 22,
+      "b": 22
+    },
+    "bottomAppBarColor": {
+      "a": 255,
+      "r": 32,
+      "g": 34,
+      "b": 37
+    },
+    "dialogBackgroundColor": {
+      "a": 255,
+      "r": 32,
+      "g": 34,
+      "b": 37
+    },
+    "canvasColor": {
+      "a": 255,
+      "r": 32,
+      "g": 34,
+      "b": 37
+    },
+    "cardColor": {
+      "a": 255,
+      "r": 22,
+      "g": 22,
+      "b": 22
+    },
+    "hintColor": {
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
+    }
+  }
 }
