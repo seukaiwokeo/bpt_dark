@@ -1,6 +1,7 @@
 {
    "brightness":"dark",
-   "backgroundImage":"null",
+   "headsImage":"null",
+   "entriesImage":"null",
    "primarySwatch":"red",
    "primaryColor":{
       "a":255,
